@@ -1,0 +1,13 @@
+img,/home/user/workspace/Projekat/images/University-of-London.jpg
+img,/home/user/workspace/Projekat/images/cat.jpg
+img,/home/user/workspace/Projekat/images/bora.png
+t,0.7
+t,0.5
+t,0.6
+s,ime1_sel,50,60,270,280
+s,ime1_sel,7,16,70,100
+s,ime1_sel,300,300,400,400
+s,ime2_sel,7,8,70,80
+o,add,ime1_sel,0.5,0,limit
+o,add,ime1_sel,0.5,1,limit
+o,wam,ime1_sel,1,1,47.0.-47.162.0.-162.47.0.-47
